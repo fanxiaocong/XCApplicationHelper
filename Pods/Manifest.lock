@@ -1,0 +1,16 @@
+PODS:
+  - XCMacros (1.0.2)
+
+DEPENDENCIES:
+  - XCMacros (~> 1.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - XCMacros
+
+SPEC CHECKSUMS:
+  XCMacros: abf7c03e5128fea2e800887a7b25c82336c3940b
+
+PODFILE CHECKSUM: 1e517b016b5cad9de5873427953680d053cdf999
+
+COCOAPODS: 1.5.3
