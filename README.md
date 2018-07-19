@@ -1,0 +1,2 @@
+# XCApplicationHelper
+XCApplicationHelper，处理监听App的生命周期的相关回调
